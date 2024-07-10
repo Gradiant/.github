@@ -1,1 +1,3 @@
-![Open Source at Gradiant](./images/2024.07_Portada_Github.png)
+#.github
+
+Public profile of Gradiant
